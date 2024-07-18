@@ -1,4 +1,4 @@
-# trading_strat
+# trading_bot
 
 To install dependencies:
 
